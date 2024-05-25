@@ -1,0 +1,7 @@
+name: CreativeModeSW
+version: '${project.version}'
+main: cn.minecrafts.CreativeModeSW
+api-version: '1.20'
+commands:
+  creativemodesw:
+    description: 切换创造模式
